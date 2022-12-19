@@ -209,15 +209,12 @@ img{
   font-size: 20px;
 }
 
-
-
 #contact-details{
   margin-bottom: var(--bottomMargin);
   grid-area: contact-details;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  
 }
 
 #contact-details ul{
@@ -225,14 +222,12 @@ img{
   display:flex;
   justify-content: space-between;
   flex-direction: row;
-  margin-right: 5%;
-  
+  margin-right: 5%; 
 }
 
 #contact-details ul li{
   border-bottom: #445876 soild 2px;
   font-size: 25px;
-  
 }
 
 #contact-details a{
@@ -265,6 +260,5 @@ img{
     flex-direction: column;
     margin-right: 5%;
     align-items: center;
-    
   }
 }
